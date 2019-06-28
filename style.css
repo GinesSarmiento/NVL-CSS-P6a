@@ -1,0 +1,76 @@
+body{
+	font:normal small-caps normal 10px/2 Verdana;
+}
+h1, table{
+	width: 650px;
+	display: block;
+	margin:0px auto 0px auto;
+}
+body h1{
+	font-size: 50px;
+}
+table {
+	border-collapse: collapse;
+}
+h1, th, .dureza{
+	text-align: center;
+	font-weight: bold;
+}
+tr{
+	border-bottom: 2px solid #808080;
+}
+td{
+	vertical-align: middle;
+}
+#cabecera{
+	font-size: 13px;
+	height: 30px;
+}
+.dureza{
+	font-weight: bold;
+}
+.dureza#uno{
+	background-color: #FFFFFF;
+	color: #000000;
+}
+.dureza#dos{
+	background-color: #E3E3E3;
+	color: #1C1C1C;
+}
+.dureza#tres{
+	background-color: #C6C6C6;
+	color: #383838;
+}
+.dureza#cuatro{
+	background-color: #AAAAAA;
+	color: #555555;
+}
+.dureza#cinco{
+	background-color: #8E8E8E;
+	color: #717171;
+}
+.dureza#seis{
+	background-color: #717171;
+	color: #8E8E8E;
+}
+.dureza#siete{
+	background-color: #555555;
+	color: #AAAAAA;
+}
+.dureza#ocho{
+	background-color: #383838;
+	color: #C6C6C6;
+}
+.dureza#nueve{
+	background-color: #1C1C1C;
+	color: #E3E3E3;
+}
+.dureza#diez{
+	background-color: #000000;
+	color: #FFFFFF;
+}
+img{
+	height: 50px;
+	display: block;
+	margin:0px auto 0px auto;
+}
